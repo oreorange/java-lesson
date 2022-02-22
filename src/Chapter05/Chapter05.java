@@ -18,8 +18,10 @@ public class Chapter05 {
 		Character c = 'う';
 		System.out.println(c);
 		
-		int[] array1 = new int[] { 10,20,30,40,50}; //配列の宣言と生成　5つの要素
-		System.out.println(array1[2]); //30出力
+		int[] array1 = new int[] { 10,20,30,40,50 };  //配列の宣言と生成　5つの要素
+//		int[] array1 = { 10,20,30,40,50 };  //こっちの書き方でもいい
+		System.out.println(array1[2]);  //30出力
 		
 	}
 }
+
