@@ -12,7 +12,7 @@ public class Chapter07 {
 		}else {
 			System.out.println("とても遠いです");
 		}
-		
+
 		//  switch文
 		String color = "blue";
 		switch (color) {
@@ -30,4 +30,3 @@ public class Chapter07 {
 	    }
 	}
 }
-
